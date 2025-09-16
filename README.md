@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, meu nome é Amanda Jordão! 👋
 
-<!--
-**mndjordao/mndjordao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  Sou um estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> apaixonado por tecnologia e programação. Estou constantemente buscando novos conhecimentos para construir soluções criativas e eficientes que resolvam problemas reais.
+</p>
 
-Here are some ideas to get you started:
+- 👨‍💻 Atualmente focando em aprimorar minhas habilidades em desenvolvimento Full-Stack.
+- 📫 Como me encontrar: **[agdsjordao@gmail.com]**
+- 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/amanda-jordao/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Minhas Habilidades
+
+<div align="left">
+  <h3>Front-End</h3>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+<div align="left">
+  <h3>Back-End</h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
+
+<div align="left">
+  <h3>Ferramentas e Outros</h3>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+
+</div>
