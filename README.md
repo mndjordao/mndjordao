@@ -1,7 +1,7 @@
 # Olá, meu nome é Amanda Jordão! 👋
 
 <p align="left">
-  Sou um estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> apaixonado por tecnologia e programação. Estou constantemente buscando novos conhecimentos para construir soluções criativas e eficientes que resolvam problemas reais.
+  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> apaixonada por tecnologia e programação. Estou constantemente buscando novos conhecimentos para construir soluções criativas e eficientes que resolvam problemas reais.
 </p>
 
 - 👨‍💻 Atualmente focando em aprimorar minhas habilidades em desenvolvimento Full-Stack.
