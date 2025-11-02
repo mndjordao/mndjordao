@@ -1,34 +1,37 @@
 # Olá, meu nome é Amanda Jordão! 👋
 
-<p align="left">
-  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> apaixonada por tecnologia e programação. Estou constantemente buscando novos conhecimentos para construir soluções criativas e eficientes que resolvam problemas reais.
-</p>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e profissional em transição de carreira, focada em me tornar uma **Desenvolvedora Front-End**.
 
-- 👨‍💻 Atualmente focando em aprimorar minhas habilidades em desenvolvimento Full-Stack.
-- 📫 Como me encontrar: **[agdsjordao@gmail.com]**
-- 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/amanda-jordao/)
+Minha experiência profissional como **Monitora de Qualidade** me proporcionou um olhar analítico e uma forte atenção aos detalhes, habilidades que agora aplico na construção de interfaces de usuário (UI) limpas, responsivas e intuitivas. Meu objetivo é criar experiências digitais que não sejam apenas funcionais, mas também agradáveis de usar.
 
----
+- 💼 Busco uma oportunidade (estágio ou júnior) para aplicar minha experiência em qualidade na construção de interfaces de alta fidelidade e pixel-perfect.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 📫 Como me encontrar: [agdsjordao@gmail.com](mailto:agdsjordao@gmail.com)
+- 🔗 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/amanda-jordao/)
 
-## 🚀 Minhas Habilidades
 
-<div align="left">
-  <h3>Front-End</h3>
+## 🚀 Minhas Habilidades de Front-End
+
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-
-<div align="left">
-  <h3>Back-End</h3>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
-
-<div align="left">
-  <h3>Ferramentas e Outros</h3>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
+</p>
+
+**Próximos Passos (Estudando Atualmente):**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> 
+  </p>
 
 
-</div>
+## 📊 Minhas Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adnamajordao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnamajordao&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
